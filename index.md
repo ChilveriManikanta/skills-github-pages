@@ -1,3 +1,4 @@
+This are GitHub Pages
 ---
-title: Welcome to my blog!
+title: Welcome to my blog of GitHub pages!
 ---
